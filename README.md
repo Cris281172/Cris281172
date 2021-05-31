@@ -7,6 +7,7 @@
 - **CSS/CSS3** |▮▮▮▮▮▮▯▯▯▯|
 - **Git** |▮▮▯▯▯▯▯▯▯▯|
 - **SEO** |▮▮▯▯▯▯▯▯▯▯|
+- **RWD** |▮▮▮▮▮▯▯▯▯▯|
 - **C++** |▮▯▯▯▯▯▯▯▯▯|
 ##### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris281172&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### My languages skills:
