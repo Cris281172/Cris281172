@@ -20,7 +20,7 @@
 - **computer graphics** |▮▮▯▯▯▯▯▯▯▯|
 
 #### Contact with me:
-- Email: krzysiu.juczynski@gmail.com
+- Email: krzysiu@juczynski.pl
 - FB: [Krzysztof Juczyński](https://www.facebook.com/krzys.juczynski.1/)
 - Discord: Cris. #5982
 
