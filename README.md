@@ -9,6 +9,8 @@
 - **SEO** |▮▮▯▯▯▯▯▯▯▯|
 - **RWD** |▮▮▮▮▮▯▯▯▯▯|
 - **C++** |▮▯▯▯▯▯▯▯▯▯|
+- **Vue** |▮▯▯▯▯▯▯▯▯▯|
+- **React** |▮▮▮▯▯▯▯▯▯▯|
 ##### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris281172&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### My languages skills:
 - **Poland** native
