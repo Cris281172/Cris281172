@@ -1,7 +1,7 @@
 # Hi. I'm Christopher.
 ## I love front end development <3.
-## 14.06 Working at: A.G Development 
-### My programming languages skills:
+### 14.06 Working at: A.G Development 
+#### My programming languages skills:
 - **JS** |▮▮▮▮▮▯▯▯▯▯|
 - **jQuery** |▮▮▮▯▯▯▯▯▯▯|
 - **HTML/HTML5** |▮▮▮▮▮▮▯▯▯▯|
