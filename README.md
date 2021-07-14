@@ -20,7 +20,7 @@
 - **Spanish** |▮▯▯▯▯▯▯▯▯|
 ### IT realted skills:
 - **Computer structure** |▮▮▮▯▯▯▯▯▯▯|
-- **computer graphics** |▮▮▯▯▯▯▯▯▯▯|
+- **Computer graphics** |▮▮▯▯▯▯▯▯▯▯|
 
 #### Contact with me:
 - Email: krzysiu.juczysnki@gmail.com
