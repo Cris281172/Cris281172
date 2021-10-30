@@ -2,7 +2,7 @@
 ## I love front end development <3.
 ### 14.06.2021 Working at: A.G Development 
 #### My programming languages skills:
-- **JS** |▮▮▮▮▮▯▯▯▯▯|
+- **JS** |▮▮▮▮▮▮▯▯▯▯|
 - **jQuery** |▮▮▮▯▯▯▯▯▯▯|
 - **HTML/HTML5** |▮▮▮▮▮▮▮▯▯▯|
 - **CSS/CSS3** |▮▮▮▮▮▮▮▯▯▯|
