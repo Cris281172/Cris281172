@@ -24,7 +24,6 @@
 
 #### Contact with me:
 - Email: krzysiu.juczysnki@gmail.com
-- FB: [Krzysztof Juczyński](https://www.facebook.com/krzys.juczynski.1/)
 - Discord: ☆CᏒᏐᏚ☆#2137
 
 
