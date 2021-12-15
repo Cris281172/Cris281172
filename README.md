@@ -13,6 +13,7 @@
 - **Vue** - basic
 - **React** - intermediate
 - **Lua** - basic
+- **Node** - basic
 ### My languages skills:
 - **Poland** - native
 - **English** - B1/B2
