@@ -8,12 +8,12 @@
 - **Git** - intermediate
 - **RWD** - intermediate
 - **React** - intermediate
-- - **C++** - basic
-- - **jQuery** - basic 
+- **C++** - basic
+- **jQuery** - basic 
 - **Vue** - basic
 - **Lua** - basic
 - **Node** - basic
-- - **SEO** - basic
+- **SEO** - basic
 ### My languages skills:
 - **Poland** - native
 - **English** - B1/B2
