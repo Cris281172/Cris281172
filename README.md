@@ -11,7 +11,6 @@
 - **C++** - basic
 - **jQuery** - basic 
 - **Vue** - basic
-- **Lua** - basic
 - **Node** - basic
 - **SEO** - basic
 ### My languages skills:
