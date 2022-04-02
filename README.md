@@ -8,7 +8,6 @@
 - **Git** - intermediate
 - **RWD** - intermediate
 - **React** - intermediate
-- **C++** - basic
 - **jQuery** - basic 
 - **Vue** - basic
 - **Node** - basic
