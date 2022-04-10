@@ -28,3 +28,5 @@
 - Email: krzysiu.juczysnki@gmail.com
 - Discord: ☆CᏒᏐᏚ☆#2137
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
