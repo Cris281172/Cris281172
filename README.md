@@ -37,8 +37,5 @@
   </a>
 </p>
 
----
 
-### 💡 Fun Fact
-> 💬 Kocham kodować i ciągle uczę się czegoś nowego – z pasją do technologii i rozwiązywania problemów 💻🚀
 
